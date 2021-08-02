@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task Planner</string>
+    <string name="log_in">Log In</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="don_t_have_account_sign_up_here">Don\'t have account ? Sign Up here</string>
+    <string name="login">Login</string>
+    <string name="already_have_account_log_in_here">Already have an account ? Log In here</string>
+    <string name="registeration">Registeration</string>
+    <string name="register">Register</string>
+
+</resources>
